@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678651775709",
+    "project_id": "flutter-push0-c1aa3",
+    "storage_bucket": "flutter-push0-c1aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678651775709:android:59fb8c4eeb2e7c18f16934",
+        "android_client_info": {
+          "package_name": "com.example.notification_abeluc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678651775709-flfp6k8hdi01svrceh0kg9acdlhri1ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMm1IcRhPDOJcYkv-F9AYIHMvDT8GQ7i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678651775709-flfp6k8hdi01svrceh0kg9acdlhri1ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
